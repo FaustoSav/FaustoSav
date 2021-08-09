@@ -1,12 +1,12 @@
 - Hi, i am Fausto Savoya
 
-I am a developer from Argentina. Currently studyin programing in UTN.
+I am a developer from Argentina. Currently studying programing in UTN.
 
 ----
 
 Im currently learning:
 - Javascript
-- Responsive Web Design
+- Web Design
 
 
 
