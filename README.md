@@ -18,7 +18,6 @@ After achieving my current goals i have planned learn about ReactJS and perfecti
  - HTML
  - CSS
  - Javascript
- - C++
  - Visual Studio Code
  - Git
 
