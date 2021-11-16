@@ -22,7 +22,7 @@ After achieving my current goals i have planned learn about ReactJS and perfecti
  - Javascript
  - Visual Studio Code
  - Git
-
+ - Sass
 
 <!---
 FaustoSav/FaustoSav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
