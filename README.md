@@ -9,7 +9,7 @@ Im currently learning:
 - Web Design
 
 ----
-Web Portfolio : faustosav.vercel.app
+- Web Portfolio : faustosav.vercel.app
 ----
 
 
