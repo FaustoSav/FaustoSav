@@ -3,7 +3,7 @@
 I am a developer from Argentina. Currently studying programming in UTN.
 ----
 Im currently learning:
-- Web Design
+- Typescript
 ----
 - Web Portfolio : faustosav.vercel.app
 ----
