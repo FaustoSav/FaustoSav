@@ -2,12 +2,12 @@
 
 I am a developer from Argentina. Currently studying programming in UTN.
 ----
-Im currently learning:
-- Typescript
+
+
 ----
 - Web Portfolio : faustosav.vercel.app
 ----
-After achieving my current goals i have planned learn about ReactJS and perfecting my front end skills.
+
 ------
  Skills
  - HTML
