@@ -16,6 +16,7 @@ I am a developer from Argentina. Currently studying programming in UTN.
  - Visual Studio Code
  - Git
  - Sass
+ - TailwindCSS
 <!---
 FaustoSav/FaustoSav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
