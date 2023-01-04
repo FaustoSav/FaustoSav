@@ -5,7 +5,8 @@ I am a developer from Argentina. Currently studying programming in UTN.
 
 
 ----
-- Web Portfolio : [Click Here](https://faustosav.vercel.app/)
+- Web Portfolio : [Click Here](https://faustosav.vercel.app/) (
+outdated information)
 ----
 
 ----
