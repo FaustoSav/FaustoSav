@@ -1,15 +1,12 @@
 - Hello! I am Fausto Savoya, im studying Programming at UTN (Argentina), and Web Developent by my own. 
 
+----
 
---
-
-
---
 - Web Portfolio : [Click Here](https://faustosav.vercel.app/) (
 outdated information)
---
 
---
+----
+
  Skills
  - HTML
  - CSS
