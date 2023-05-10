@@ -2,8 +2,6 @@
 
 ----
 
-- Web Portfolio : [Click Here](https://faustosav.vercel.app/) (
-outdated information)
 
 ----
 
